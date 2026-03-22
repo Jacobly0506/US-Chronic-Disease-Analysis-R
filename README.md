@@ -46,4 +46,4 @@ A t-test showed the South’s mean obesity rate (**~35.7%**) is significantly hi
 
 ### **3. The Aggregation Paradox**
 Regression models showed a surprisingly weak correlation ($R^2 \approx 0.01$) between state-level smoking/obesity and heart disease mortality.
-> **💡 Insight:** This highlights the **Ecological Fallacy**, where state-level averages mask individual-level causalities, suggesting a need for more granular, age-adjusted data for policy intervention.
+> **Insight:** This highlights the **Ecological Fallacy**, where state-level averages mask individual-level causalities, suggesting a need for more granular, age-adjusted data for policy intervention.
