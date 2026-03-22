@@ -10,7 +10,7 @@ This project leverages the **U.S. Chronic Disease Indicators (CDI)** dataset fro
 
 By applying rigorous statistical methods in **R**, this analysis identifies critical health disparities in the U.S. South and evaluates the limitations of aggregated public health data in predicting mortality outcomes.
 
-### 🔗 [Click Here to View the Full Analysis Report](https://hjlee24.github.io/US-Chronic-Disease-Analysis-R/)
+### 🔗 [Click Here to View the Full Analysis Report](https://hjlee24.github.io/US-Chronic-Disease-Analysis-R/index.html)
 
 [![View Live Report](https://img.shields.io/badge/View-Live_Report-brightgreen?style=for-the-badge&logo=render)](https://hjlee24.github.io/US-Chronic-Disease-Analysis-R/)
 ---
